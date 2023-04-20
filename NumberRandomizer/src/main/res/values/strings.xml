@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1 000776331 Alexei Ougriniouk</string>
+    <string name = "Enter_A_Max_Number"> Enter A Max Number</string>
+    <string name = "RandomButton"> Random</string>
+</resources>
